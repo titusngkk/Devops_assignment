@@ -1,2 +1,4 @@
 # Devops_assignment
-Devops CI Super linter
+
+
+Runs super linter v3.17.0 to test code for errors.
